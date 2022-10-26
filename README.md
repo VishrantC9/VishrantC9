@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishrant Chakurkar</h1>
 <h3 align="center">A passionate Python developer from India, Working as a project engineer in Wipro</h3>
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/567523990538356835/">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishrantc9&label=Profile%20views&color=0e75b6&style=flat" alt="vishrantc9" /> </p>
 
